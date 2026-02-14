@@ -20,7 +20,7 @@ public class Atm {
 
             while (!exit) {
 
-                System.out.println("2. Cash withdrawal");
+                System.out.println("2. Cash withdrawals");
                 System.out.println("3. Exit");
                 System.out.print("Choose option: ");
                 System.out.println("--- :::: ATM MENU ::::::---");
