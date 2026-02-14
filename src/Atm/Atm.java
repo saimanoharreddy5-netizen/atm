@@ -30,7 +30,7 @@ public class Atm {
                 switch (option) {
 
                     case 1:
-                        System.out.println("Your balance is: " + balance);
+                        System.out.println("Your Balance is: " + balance);
                         break;
 
                     case 2:
