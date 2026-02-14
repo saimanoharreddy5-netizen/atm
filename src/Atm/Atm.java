@@ -23,7 +23,7 @@ public class Atm {
                 System.out.println("2. Cash Withdrawal");
                 System.out.println("3. Exit");
                 System.out.print("Choose option: ");
-                System.out.println("---.. ATM MENU ..---");
+                System.out.println("---.. ATM MENU ::::::---");
 
                 int option = sc.nextInt();
 
