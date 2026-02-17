@@ -20,17 +20,17 @@ public class Atm {
 
             while (!exit) {
 
-                System.out.println("2. Cash Withdrawal");
+                System.out.println("2. Cash withdrawals");
                 System.out.println("3. Exit");
                 System.out.print("Choose option: ");
-                System.out.println("---.. ATM MENU ::::::---");
+                System.out.println("--- :::: ATM MENU ::::::---");
 
                 int option = sc.nextInt();
 
                 switch (option) {
 
                     case 1:
-                        System.out.println("Your balance is: " + balance);
+                        System.out.println("Your Balance is: " + balance);
                         break;
 
                     case 2:
